@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# About
 
 NOT just another labeling tool...
